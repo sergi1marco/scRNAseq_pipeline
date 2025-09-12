@@ -1,1 +1,1 @@
-# scRNAseq_pipeline
+# scRNAseq
